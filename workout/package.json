@@ -1,0 +1,25 @@
+{
+  "name": "workout",
+  "version": "1.0.0",
+  "description": "records of workouts on map",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve",
+    "start": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andrey-Lit/front-end/workout"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Andrii Lytvynenko",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
