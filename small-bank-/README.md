@@ -1,4 +1,4 @@
-#small-bank-
+#small-bank-website
 HTML/CSS/Javascript
 
 ## Setup
