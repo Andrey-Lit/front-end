@@ -1,0 +1,29 @@
+{
+  "name": "small-bank",
+  "version": "1.0.0",
+  "description": "small-bank-site",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve",
+    "start": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrey-Lit/front-end.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Andrii Lytvynenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrey-Lit/front-end/issues"
+  },
+  "homepage": "https://github.com/Andrey-Lit/front-end#readme",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
